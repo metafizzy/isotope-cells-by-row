@@ -46,7 +46,7 @@ function cellsByRowDefinition( LayoutMode ) {
 if ( typeof define === 'function' && define.amd ) {
   // AMD
   define( [
-      '../layout-mode'
+      'isotope/js/layout-mode'
     ],
     cellsByRowDefinition );
 } else {
