@@ -1,13 +1,13 @@
 {
   "name": "isotope-cells-by-row",
   "main": "cells-by-row.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": [
     "David DeSandro"
   ],
   "description": "cellsByRow layout mode for Isotope",
   "dependencies": {
-    "isotope": "metafizzy/isotope#2.0.0-beta.6"
+    "isotope": ">=2.0.0-beta.6"
   },
   "keywords": [
     "layout",
