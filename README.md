@@ -1,6 +1,6 @@
 # cellsByRow layout mode for Isotope
 
-See [docs for cellsByRow layout mode](http://isotope.metafizzy.co/beta/layout-modes/cellsbyrow.html)
+See [docs for cellsByRow layout mode](http://isotope.metafizzy.co/layout-modes/cellsbyrow.html)
 
 ``` js
 $('#container').isotope({
@@ -11,3 +11,7 @@ $('#container').isotope({
   }
 });
 ```
+
+## Install
+
+Install with [Bower](http://bower.io) `bower install isotope-cells-by-row`
