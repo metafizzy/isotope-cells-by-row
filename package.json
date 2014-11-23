@@ -1,0 +1,28 @@
+{
+  "name": "isotope-cells-by-row",
+  "version": "1.1.0",
+  "description": "cellsByRow layout mode for Isotope",
+  "main": "cells-by-row.js",
+  "dependencies": {
+    "isotope": "2.1.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/metafizzy/isotope-cells-by-row.git"
+  },
+  "keywords": [
+    "DOM",
+    "browser",
+    "layout",
+    "isotope",
+    "isotope-layout-mode"
+  ],
+  "author": "David DeSandro / Metafizzy",
+  "bugs": {
+    "url": "https://github.com/metafizzy/isotope-cells-by-row/issues"
+  },
+  "homepage": "https://github.com/metafizzy/isotope-cells-by-row"
+}
