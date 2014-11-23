@@ -1,6 +1,6 @@
 /*!
  * cellsByRows layout mode for Isotope
- * v1.1.0
+ * v1.1.1
  * http://isotope.metafizzy.co/layout-modes/cellsbyrow.html
  */
 
@@ -55,7 +55,7 @@ if ( typeof define === 'function' && define.amd ) {
 } else if ( typeof exports === 'object' ) {
   // CommonJS
   module.exports = cellsByRowDefinition(
-    require('isotope/js/layout-mode')
+    require('isotope-layout/js/layout-mode')
   );
 } else {
   // browser global

@@ -16,4 +16,4 @@ $('#container').isotope({
 
 Install with [Bower](http://bower.io) `bower install isotope-cells-by-row`
 
-[Install with npm](https://www.npmjs.org/packages/isotope-cells-by-row): `npm install isotope-cells-by-row`
+[Install with npm](https://www.npmjs.org/package/isotope-cells-by-row): `npm install isotope-cells-by-row`
