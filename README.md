@@ -3,7 +3,7 @@
 See [docs for cellsByRow layout mode](http://isotope.metafizzy.co/layout-modes/cellsbyrow.html)
 
 ``` js
-$('#container').isotope({
+$('.grid').isotope({
   layoutMode: 'cellsByRow',
   cellsByRow: {
     columnWidth: 200,
