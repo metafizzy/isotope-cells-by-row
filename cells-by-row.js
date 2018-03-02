@@ -12,7 +12,7 @@
   if ( typeof define === 'function' && define.amd ) {
     // AMD
     define( [
-        'isotope/js/layout-mode'
+        'isotope-layout/js/layout-mode'
       ],
       factory );
   } else if ( typeof exports === 'object' ) {
