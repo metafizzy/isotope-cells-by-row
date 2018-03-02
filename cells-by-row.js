@@ -1,7 +1,7 @@
 /*!
  * cellsByRows layout mode for Isotope
- * v1.1.3
- * http://isotope.metafizzy.co/layout-modes/cellsbyrow.html
+ * v1.1.4
+ * https://isotope.metafizzy.co/layout-modes/cellsbyrow.html
  */
 
 /*jshint browser: true, devel: false, strict: true, undef: true, unused: true */

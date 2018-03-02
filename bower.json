@@ -2,11 +2,11 @@
   "name": "isotope-cells-by-row",
   "main": "cells-by-row.js",
   "authors": [
-    "Metafizzy"
+    "David DeSandro"
   ],
   "description": "cellsByRow layout mode for Isotope",
   "dependencies": {
-    "isotope": ">=2.1 <4.0"
+    "isotope-layout": ">=2.1 <4.0"
   },
   "keywords": [
     "layout",

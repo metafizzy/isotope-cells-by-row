@@ -1,6 +1,6 @@
 # cellsByRow layout mode for Isotope
 
-See [docs for cellsByRow layout mode](http://isotope.metafizzy.co/layout-modes/cellsbyrow.html)
+See [docs for cellsByRow layout mode](https://isotope.metafizzy.co/layout-modes/cellsbyrow.html)
 
 ``` js
 $('.grid').isotope({
